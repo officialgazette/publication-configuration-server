@@ -55,5 +55,7 @@ Example of a tenant specific request
 ```
 https://amtsblattportal.ch/terms/kabvs/AL-VS15
 ```
+Structure of the tenant specific terms
 
+https://github.com/officialgazette/publication-standard?tab=readme-ov-file#the-terminology-catalogue
 ## Boundary to the core software
