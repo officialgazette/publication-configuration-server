@@ -48,3 +48,12 @@ style scope stroke:grey,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
 ${\color{red}----}$ Scope of this repository
 
 ${\color{grey}----}$ Out of scope (for the Publication Type Configurator see Repository [here](https://github.com/officialgazette/publication-configurator))
+
+## API
+Example of a tenant specific request
+
+```
+https://amtsblattportal.ch/terms/kabvs/AL-VS15
+```
+
+## Boundary to the core software
