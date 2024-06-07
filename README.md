@@ -1,4 +1,6 @@
-# The publication configuration server
+# The Publication Configuration Server
+
+The publication configuration server is designed to deliver the configuration of client-specific publication types. It provides a REST API, which is used by the core software to supply the corresponding client-specific forms (Publication Types) at runtime.
 
 ```mermaid
 
@@ -45,4 +47,4 @@ style scope stroke:grey,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
 
 ${\color{red}----}$ Scope of this repository
 
-${\color{grey}----}$ Out of scope (for the Publication Configuration Tool see Repository [here](https://github.com/officialgazette/publication-configurator))
+${\color{grey}----}$ Out of scope (for the Publication Type Configurator see Repository [here](https://github.com/officialgazette/publication-configurator))
