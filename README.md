@@ -59,3 +59,4 @@ Structure of the tenant specific terms
 
 https://github.com/officialgazette/publication-standard?tab=readme-ov-file#the-terminology-catalogue
 ## Boundary to the core software
+The core software (Edoras One*) loads the configurations using a REST call. As the core software has been customized and is not available under a free license anymore, the detailed implementation will not be covered here.
