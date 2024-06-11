@@ -1,6 +1,6 @@
 # The Publication Configuration Server
 
-The publication configuration server is designed to deliver the configuration of client-specific publication types. It provides a REST API, which is used by the core software to supply the corresponding client-specific forms (Publication Types) at runtime.
+The publication configuration server is designed to deliver the configuration of tenant-specific publication types. It provides a REST API, which is used by the **core software** to supply the corresponding tenant-specific forms (Publication Types) at runtime.
 
 ```mermaid
 
