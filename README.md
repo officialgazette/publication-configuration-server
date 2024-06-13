@@ -50,7 +50,7 @@ style scope stroke:grey,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
 
 ${\color{red}----}$ Scope of this repository
 
-${\color{grey}----}$ Out of scope (for the Publication Type Configurator see Repository [here](https://github.com/officialgazette/publication-configurator))
+${\color{grey}----}$ Out of scope (for the publication configurator see Repository [here](https://github.com/officialgazette/publication-configurator))
 
 ## API
 Example of a tenant specific request
