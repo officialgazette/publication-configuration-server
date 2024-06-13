@@ -1,5 +1,8 @@
 # The Publication Configuration Server
 
+> [!TIP]
+> To get a better understanding of the interaction between the individual artifacts, it is recommended to read ["Big Picture"](https://github.com/officialgazette/big-picture) first.
+
 The publication configuration server is designed to deliver the configuration of tenant-specific publication types. It provides a REST API, which is used by the **core software** to supply the corresponding tenant-specific forms (Publication Types) at runtime.
 
 ```mermaid
