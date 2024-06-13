@@ -13,22 +13,22 @@ The publication configuration server is designed to deliver the configuration of
 block-beta
 columns 4
   pubType["Publication
-Type"] space
+type"] space
 block:scope:2
 configTool["Tenant
-Configurator
+configurator
 Tool"]
 termsConfig["Terms
-Configurator
+configurator
 Tool"]
 end
 space:6
 block:outOfScope:2
-Config["Config
+Config["Configuration
 file"]
 termDB[("
-Term
-Database")]
+Terms
+catalog")]
 end
 
 
@@ -58,5 +58,6 @@ https://amtsblattportal.ch/terms/kabvs/AL-VS15
 Structure of the tenant specific terms
 
 https://github.com/officialgazette/publication-standard?tab=readme-ov-file#the-terminology-catalogue
+
 ## Boundary to the core software
 The core software (Edoras One*) loads the configurations using a REST call. As the core software has been customized and is not available under a free license anymore, the detailed implementation will not be covered here.
